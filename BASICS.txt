@@ -1,0 +1,38 @@
+What is Java?
+
+>>Popular programming language.
+>>Used to develop mobile apps, web apps, desktop apps, games,Database connection etc...
+>>Created in 1995.
+>>Owned by Oracle, and more than 3 billion devices run Java.
+
+Why Use Java?
+>>Works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
+>>One of the most popular programming languages in the world
+>>Large demand in the current job market
+>>Easy to learn and simple to use
+>>Open-source and free
+>>Secure, fast and powerful
+>>Huge community support 
+>>An object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
+>>As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+
+JAVA INSTALL
+
+To Check installation 
+           C:\Users\HARINI N>java -version
+If java is installed, you can see
+            java version "21" 2023-09-19 LTS
+	    Java(TM) SE Runtime Environment (build 21+35-LTS-2513)
+            Java HotSpot(TM) 64-Bit Server VM (build 21+35-LTS-2513, mixed mode, sharing)
+
+If you do not have Java installed on your computer, you can download it for free at [https://www.oracle.com/java/technologies/downloads/#jdk22-windows].
+
+It is possible to write Java in an 
+	Integrated Development Environment
+		IntelliJ IDEA, Netbeans or Eclipse.
+
+JAVA QUICKSTART
+>>Every application begins with a class name, and that class must match the filename.
+>>Let's create our first Java file, called Main.java, which can be done in any text editor (like Notepad).
+
